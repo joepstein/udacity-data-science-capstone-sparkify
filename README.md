@@ -50,7 +50,7 @@ The goal of this project is to leverage user log files, to predict whether or no
 * Logistic Regression Test Set (F1: 70.31%, AreaUnderRoc: 86.25%)
 * Gradient Boosted Trees Test Set (F1: 60.27%, AreaUnderRoc: 72.71%)
 * Random Forest Test Set (F1: 71.70%, AreaUnderRoc: 79.17%)
-* After running a crossvalidator, Logistic Regression Training Set (F1: 79.55%, AreaUnderRoc: 88.99%) and Test Set (F1: 86.47%, AreaUnderRoc: 87.92%)
+* After running a crossvalidator, Logistic Regression Training Set (F1: 86.94%, AreaUnderRoc: 90.41%) and Test Set (F1: 79.55%, AreaUnderRoc: 83.33%)
 
 ### **Large Dataset (EMR)**: 
  
